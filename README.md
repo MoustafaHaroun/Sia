@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="./sia-logo.svg" alt="Sia Logo" width="180" />
+  <img src="./sia-logo.svg" alt="Sia Logo" width="500" />
 
-  <h1>Sia</h1>
   <p><em>Market foresight — stock data, prediction & reporting API</em></p>
 
   <p>
