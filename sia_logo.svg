@@ -1,0 +1,42 @@
+<svg width="100%" viewBox="0 0 680 400" role="img" xmlns="http://www.w3.org/2000/svg" style="">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Sia logo — Egyptian eye with minimal wordmark</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">A minimal logo featuring a stylized Egyptian eye above the wordmark SIA and tagline</desc>
+
+  
+
+  <g transform="translate(340, 185)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+
+    <!-- Eye whites / almond shape -->
+    <path d="M-72,0 C-50,-28 50,-28 72,0 C50,28 -50,28 -72,0 Z" fill="var(--color-background-secondary)" stroke="var(--color-text-primary)" stroke-width="1.5" style="fill:rgb(38, 38, 36);stroke:rgb(250, 249, 245);color:rgb(251, 251, 254);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Iris ring -->
+    <circle cx="0" cy="0" r="20" fill="none" stroke="var(--color-text-primary)" stroke-width="1.5" style="fill:none;stroke:rgb(250, 249, 245);color:rgb(251, 251, 254);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Pupil -->
+    <circle cx="0" cy="0" r="8" fill="var(--color-text-primary)" style="fill:rgb(250, 249, 245);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Upper eyelid line -->
+    <path d="M-72,0 C-50,-28 50,-28 72,0" stroke-width="2" style="fill:none;stroke:rgb(250, 249, 245);color:rgb(251, 251, 254);stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Kohl flick — right (the iconic Egyptian eye extension) -->
+    <path d="M72,0 L100,14 L88,14" stroke-width="1.5" fill="none" style="fill:none;stroke:rgb(250, 249, 245);color:rgb(251, 251, 254);stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Kohl flick — left subtle inner corner -->
+    <path d="M-72,0 L-86,-6" stroke-width="1.2" style="fill:none;stroke:rgb(250, 249, 245);color:rgb(251, 251, 254);stroke-width:1.2px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Eyebrow — single clean arc -->
+    <path d="M-58,-36 C-20,-52 30,-52 68,-30" stroke-width="1.2" style="fill:none;stroke:rgb(250, 249, 245);color:rgb(251, 251, 254);stroke-width:1.2px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Teardrop below — anchors the symbol -->
+    <path d="M0,20 L0,38" stroke-width="1.2" style="fill:none;stroke:rgb(250, 249, 245);color:rgb(251, 251, 254);stroke-width:1.2px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <circle cx="0" cy="42" r="3.5" fill="var(--color-text-primary)" style="fill:rgb(250, 249, 245);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  </g>
+
+  <!-- Wordmark -->
+  <text x="340" y="290" text-anchor="middle" style="fill:rgb(250, 249, 245);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Anthropic Sans, sans-serif;font-size:52px;font-weight:500;text-anchor:middle;dominant-baseline:auto">SIA</text>
+
+  <!-- Tagline -->
+  <text x="340" y="320" text-anchor="middle" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Anthropic Sans, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">MARKET FORESIGHT</text>
+
+</svg>
